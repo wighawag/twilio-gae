@@ -1,7 +1,7 @@
 package twiliogae
 
 import (
-	"appengine"
+	"google.golang.org/appengine"
 	"encoding/json"
 	"net/url"
 )
